@@ -1,0 +1,6 @@
+Simple plugin to handle gists.
+
+Example:
+	[gist src="https://gist.github.com/1942457"]
+	
+That's all :)
