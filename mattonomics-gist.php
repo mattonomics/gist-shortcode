@@ -38,7 +38,7 @@ class mattonomics_gist {
 		if (! is_wp_error($g))
 			$code = json_decode($g['body']);
 		
-		return stripslashes_deep(wp_rel_nofollow($code->div));
+		return $code->div;
 	}
 }
 
