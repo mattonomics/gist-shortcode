@@ -1,6 +1,12 @@
 <?php
 /*
 Plugin Name: Mattonomics Gist
+Plugin URI: https://github.com/mattonomics/gist-shortcode
+Description: Simple plugin to handle gists
+Version: 1.0
+Author: Matt Gross
+Author URI: http://mattonomics.com
+License: GPLv2, but screw people who care
 */
 
 class mattonomics_gist {
